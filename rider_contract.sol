@@ -13,7 +13,7 @@ contract RiderContract {
         uint id;
         uint amount;
         bool active;
-    }
+    } 
     
     event Ordered(address caller, address rider, uint id, uint amount);
     event Delivered(address caller, address rider, uint id);
