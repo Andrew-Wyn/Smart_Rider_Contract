@@ -1,5 +1,5 @@
 # Smart_Rider_Contract
-Little article for an university law exam, implementation of a simple smart contract, with explain about a theoretical part about block-chain
+Little article for an university law exam, implementation of a simple smart contract, with explain a theoretical part about block-chain
 
 sources: 
 - Criptovalute: Manuale di sopravvivenza, Emanuele Florindi, Imprimatur 
